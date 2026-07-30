@@ -35,11 +35,14 @@ Cyber Apocalypse is a global Capture The Flag (CTF) competition focused on pract
 
 ## 📜 Certificate
 
-Certificate of Participation:
+I successfully participated in **Hack The Box Cyber Apocalypse CTF 2026 - The Salt Crown**.
 
-`Certificate-CyberEyeCHFI.pdf`
+You can view my certificate here:
 
-This certificate verifies my participation in Hack The Box Cyber Apocalypse CTF 2026.
+➡️ [View Certificate of Participation](Certificate/HTB-Cyber-Apocalypse-2026-Certificate.pdf)
+
+
+The certificate is included in this repository as proof of participation and achievement.
 
 ---
 

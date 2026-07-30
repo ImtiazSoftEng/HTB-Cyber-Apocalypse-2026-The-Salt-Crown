@@ -109,7 +109,7 @@ I successfully participated in **Hack The Box Cyber Apocalypse CTF 2026 - The Sa
 
 You can view my certificate here:
 
-➡️ [View Certificate of Participation](Certificate-CyberEyeCHFI.pdf)
+➡️ [View Certificate of Participation](Certificate-CyberEyeCHFI/Certificate-CyberEyeCHFI/Certificate-CyberEyeCHFI.pdf)
 
 The certificate is included in this repository as proof of participation and achievement.
 
